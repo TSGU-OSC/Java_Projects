@@ -1,0 +1,15 @@
+# Created at 2023-07-08T12:47:52.379
+WARNING: An illegal reflective access operation has occurred
+
+# Created at 2023-07-08T12:47:52.379
+WARNING: Illegal reflective access by com.qihoo.wd.micropatch.PluginManager (file:C:/Program Files (x86)/360/360Safe477531/360Safe/safemon/zerojp/JavaMPEngCore.jar) to field sun.instrument.InstrumentationImpl.mNativeAgent
+
+# Created at 2023-07-08T12:47:52.381
+WARNING: Please consider reporting this to the maintainers of com.qihoo.wd.micropatch.PluginManager
+
+# Created at 2023-07-08T12:47:52.381
+WARNING: Use --illegal-access=warn to enable warnings of further illegal reflective access operations
+
+# Created at 2023-07-08T12:47:52.382
+WARNING: All illegal access operations will be denied in a future release
+
