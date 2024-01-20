@@ -38,21 +38,25 @@
     touch README.md
     vim README.md
     ```
-4. 提交您的修改
+4. 切换分支
+    ```bash
+    git checkout develop
+    ```
+5. 提交您的修改
     ```bash
     git add .
     git commit -m "Add/modify your-documentation"
     ```
-5. 推送到您的Fork
+6. 推送到您的Fork
     ```bash
     git push origin feature/your-feature
     ```
-6. 创建一个 Pull Request（PR）：
+7. 创建一个 Pull Request（PR）：
 
 - 到您的 Fork 页面，点击 "New Pull Request"。
 - 选择要将您的修改合并到的目标分支。
 - 提供清晰而简洁的 PR 描述。
-7. 我们将审查您的 PR，并在需要时提出建议或请求修改。
+8. 我们将审查您的 PR，并在需要时提出建议或请求修改。
  
 ## 注意事项
 - 请确保您的文档使用正确的 Markdown 语法，并注意格式的一致性。
