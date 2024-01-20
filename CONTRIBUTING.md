@@ -49,7 +49,7 @@
     ```
 6. 推送到您的Fork
     ```bash
-    git push origin feature/your-feature
+    git push origin develop
     ```
 7. 创建一个 Pull Request（PR）：
 
